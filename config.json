@@ -1,0 +1,56 @@
+{
+  "squares": [
+    { "name": "media",
+      "color": "#8da184",
+      "links": [
+        { "name": "Youtube", "url": "https://www.youtube.com/" },
+        { "name": "Prime Video", "url": "https://www.amazon.com/Amazon-Video/b?ie=UTF8&node=2858778011" },
+        { "name": "Meal Time Videos", "url": "https://www.reddit.com/r/mealtimevideos/" },
+        { "name": "Lo-Fi Hip-Hop", "url": "https://www.youtube.com/watch?v=5qap5aO4i9A" },
+        { "name": "Twitch", "url": "https://www.twitch.tv/taehatypes"}
+      ]
+    },
+    { "name": "social",
+      "color": "#70865e",
+      "links": [
+        { "name": "r/", "url": "https://reddit.com" },
+        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" },
+        { "name": "r/mechmarket", "url": "https://www.reddit.com/r/mechmarket/new/"}
+      ]
+    },
+    { "name": "work",
+      "color": "#748d9a",
+      "links": [
+        { "name": "Canvas", "url": "https://ufl.instructure.com/" },
+        { "name": "Signals", "url": "https://ufl.instructure.com/courses/416877" },
+        { "name": "CS T/L", "url": "https://ufl.instructure.com/courses/420664" },
+        { "name": "4744", "url": "https://mil.ufl.edu/4744/" },
+        { "name": "4744 Sharepoint", "url": "https://uflorida-my.sharepoint.com/:f:/g/personal/ems_ufl_edu/EiaqpRhyb8FMg51iKf_w-5gBvUu3LG6UhOuhUfiwz3dWpw?e=4NrmXc" }
+      ]
+    },
+    {
+      "name": "others",
+      "color": "#c6d0d6",
+      "links": [
+        {"name": "Mech Group Buys", "url":"https://mechgroupbuys.com/"},
+        {"name": "Free Media Wiki", "url": "https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index"},
+        {"name": "Amazon", "url": "https://www.amazon.com/"},
+        {"name": "Hacker News", "url": "https://news.ycombinator.com/"},
+        {"name": "IPTorrents", "url": "https://www.iptorrents.com/t"}
+      ]
+    }
+  ],
+  "searchEngine":"Google",
+  "user": "",
+  "disableMessage": true,
+  "disableDate": false,
+  "disableSearchBar": true,
+  "disable24Hour": true,
+  "disableWeather": false,
+  "timeZone": "America/New_York",
+  "weatherConf": {
+    "location": "Gainesville Florida",
+    "unit": "fah"
+  },
+  "settingsIcon": false
+}
